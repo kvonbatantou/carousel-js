@@ -13,7 +13,7 @@ Un carrousel responsive, fluide et optimisé avec navigation par boutons, indica
 
 ## 📁 Structure des fichiers
 
-animation-dynajs/
+arousel-js/
 ├── index.html # Fichier HTML principal
 ├── main.js # Script JavaScript pour la logique du carrousel
 └── src/
